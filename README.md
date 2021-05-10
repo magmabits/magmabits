@@ -2,6 +2,6 @@
 - 👀 I’m interested in Discord Bot / Website Development
 - 🌱 I’m currently learning React / CSS
 - 📫 How to reach me:
- - Discord: magma#3574
+ - Discord: Magma#5090
  - Twitter: @mgam_is_dreamin
  - Instagram: @mgam_is_dreamin
