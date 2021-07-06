@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @mgam-is-dreamin
-- 👀 I’m interested in Discord Bot / Website Development
-- 🌱 I’m currently learning React / CSS
-- 📫 How to reach me:
- - Discord: Magma#5090
- - Twitter: @mgam_is_dreamin
- - Instagram: @mgam_is_dreamin
+## 👋 Heyo!
+I am Magma, also known as mgam.
+
+I’m currently learning ReactJS / NextJS.
+
+I love coding discord bots and websites, even though it can be confusing very often
+
+
+### 🌸 Social Media
+> [Discord: Magma#5090](https://discord.com/users/611292879201239051)
+> 
+> [Twitter: @mgam_is_dreamin](https://twitter.com/mgam_is_dreamin)
