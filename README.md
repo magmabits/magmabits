@@ -1,5 +1,5 @@
 ## 👋 Heyo!
-I am Magma, also known as mgam.
+I am Magma, also known as mgam, a student in austria.
 
 I’m currently learning ReactJS / NextJS.
 
