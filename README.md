@@ -1,5 +1,5 @@
 ## Heyo! 🥰
-I'm Magmabits, Magma for short. I am a chemistry enthusiast with a passion for web-development. I mainly use Javascript for regular projects and Next.js for Websites.
+I'm Magmabits, Magma for short. I am a chemistry enthusiast with a passion for web-development. I mainly use Javascript for regular projects, Next.js for Websites and [GDScript](https://gdscript.com) for Game Development in Godot.
 
 I'm a student living in Austria. Also, pretty much all of my projects are private so 😐.
 
