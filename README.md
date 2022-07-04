@@ -1,6 +1,6 @@
 ## Heyo, I'm Magmabits, Magma for short! 👋
 
-### I'm a Student from Austria and Developer! 
+### I'm a Student and Developer from Austria! 
 - 🏆 I mainly code Discord Bots and Websites
 - 🌍 I speak German and English whilst currently learning Latin
 - 💤 I love to listen to any kind of music and sleeping
@@ -25,3 +25,5 @@
 
 ### Statistics:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=magmabits&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magmabits&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
