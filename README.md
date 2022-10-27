@@ -1,7 +1,7 @@
 ## Heyo, I'm Magmabits, Magma for short! 👋
 
 ### I'm a Student and Developer from Austria! 
-- 🏆 I mainly code Discord Bots and Websites
+- 🏆 I mainly code Websites, but used to develop Discord Bots as well.
 - 🌍 I speak German and English whilst currently learning Latin
 - 💤 I love to listen to any kind of music and sleeping
 - 👾 Fun Fact: I tried game-development, but soon left that project, due to me having to work alone
