@@ -8,9 +8,9 @@
 - 🥅 2022 Goals: Go outside, start working out and re-make my entire room
 
 ### Get in contact with me:
-[<img align="left" alt="Magmabits | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">](https://discord.com/users/611292879201239051)
-[<img align="left" alt="Magmabits | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/magmabits)
-[<img align="left" alt="Magmabits | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://instagram.com/magmabits)
+• [Discord](https://discord.com/users/611292879201239051)
+
+• [Twitter](https://twitter.com/magmabits)
 <br/>
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/visualstudiocode.svg">
