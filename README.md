@@ -3,11 +3,11 @@
 ### I'm a Student and Developer from Austria! 
 > 💻 I mainly code Websites, but used to develop Discord Bots as well.
 >
-> 🌍 I can speak English and German, and I'm now learning Latin.
+> 🌍 I can speak English and German!
 > 
-> 🎵 I enjoy listening to many genres of music. I have a strong sense of purpose and optimism. 
+> 🎵 I enjoy listening to many genres of music.
 > 
-> ✅ 2024 Goals: Living
+> ✅ 2025 Goals: Living
 > 
 
 ### Tools
