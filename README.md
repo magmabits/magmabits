@@ -1,5 +1,3 @@
-> `👀` Chemistry Student & Frontend Web-Developer
+> `🧪` Chemistry Student
 > 
-> `💻` Typescript, React + NextJS, TailwindCSS
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/611292879201239051)](https://discord.com/users/611292879201239051)
+> `💻` Minecraft Mod Developer and Frontend Web-Dev
